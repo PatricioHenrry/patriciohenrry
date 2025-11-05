@@ -1,5 +1,5 @@
    ## 🌐 Hi there 👋 I am Patricio 😄 
-<h2>🖥️ I am a Data Science and Artificial Intelligence student with practical experience in data analysis, automation, cleaning, and visualization. 
+<h2>🖥️ I am a Data Science and Artificial Intelligence student with real experience in data analysis, automation, cleaning and visualization, and web. 
   
   I have strong skills in Python, SQL, Power BI and developing user-friendly tools for efficient data management.
    
